@@ -56,6 +56,6 @@ Options:
 
 # TODO
 
-[ ] search installed npm packages for plugins
-[ ] store CommonJS modules for views in `views/lib/*`
-[ ] reroot CommonJS into the design documents instead of storing everything in `commonjs/*` 
+- [ ] search installed npm packages for plugins
+- [ ] store CommonJS modules for views in `views/lib/*`
+- [ ] reroot CommonJS into the design documents instead of storing everything in `commonjs/*` 
