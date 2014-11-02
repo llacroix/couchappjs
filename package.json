@@ -21,6 +21,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Loïc Faure-Lacroix",
+    "email": "lamerstar@gmail.com",
+    "url": "http://blog.vosnax.ru/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llacroix/couchappjs"
+  },
   "license": "MIT"
 }
