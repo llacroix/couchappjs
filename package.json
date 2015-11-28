@@ -1,6 +1,6 @@
 {
   "name": "couchappjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Couchapp kind of in nodejs",
   "main": "index.js",
   "bin": {
